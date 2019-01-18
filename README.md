@@ -17,6 +17,8 @@ Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, th
 
     sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
+Finally, for pipelining and performing parallel tasks, the Joblib library can be installed with <a href="https://pypi.org/project/pip/">pip</a> library management:
+
 For other Linux flavors, OS X and Windows, packages are available at:
 
 http://www.python.org/getit/  
