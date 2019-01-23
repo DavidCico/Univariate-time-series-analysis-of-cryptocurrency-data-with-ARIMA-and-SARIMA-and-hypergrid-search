@@ -1,4 +1,4 @@
-# Univariate-time-series-analysis-of-cryptocurrency-data-with-ARIMA-and-SARIMA
+# Univariate-time-series-analysis-of-cryptocurrency-data-with-ARIMA-and-SARIMA-and-hypergrid-search
 <p align="justify">In this repository, a time series analysis is conducted using both regular and seasonal ARIMA models. The study is led on the historical price of the XRP coin with Python. A hypergrid search of optimal parameters for both models is also presented.</p>
 
 ## Getting Started
