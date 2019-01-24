@@ -36,7 +36,7 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### File descriptions
 <ul>
-    <li>'ETF_data' which is a univariate time series of the price history of the ETF.</li>
+    <li>'Univariate_analysis_classic_methods.ipynb' which is a univariate time series of the price history of the ETF.</li>
 <li>'Main.py' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'</li>
     <li>'Monte_Carlo_GBM.py' which contains the different algorithms used for comparison.</li>
 <li><div align="justify">'Post_processing.py' where all the functions for post-processing (plots, information, descriptive statistics) are implemented.</div></li>
@@ -44,7 +44,7 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### Running the files
 
-<p align="justify">The notebook 'Get_coin_data.ipynb' can be directly opened on GitHub, but only the Python code will be visible, as most of its content is written in HTML format. To open the notebook, it is better to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
+<p align="justify">Both notebooks can directly be opened on GitHub, but only the Python code will be visible, as most of its content is written in HTML format. To open the notebook, it is better to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
 
     jupyter notebook
 
