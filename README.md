@@ -51,10 +51,10 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 <p align="justify">This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):</p>
 
     $ jupyter notebook
-    [I 08:58:24.417 NotebookApp] Serving notebooks from local directory: /Users/catherine
-    [I 08:58:24.417 NotebookApp] 0 active kernels
-    [I 08:58:24.417 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
-    [I 08:58:24.417 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+    [I 11:47:00.830 NotebookApp] Serving notebooks from local directory: C:\Users\EC-PM-3
+    [I 11:47:00.830 NotebookApp] The Jupyter Notebook is running at:
+    [I 11:47:00.830 NotebookApp] http://localhost:8888/?token=d22181d47f4826316a37161bb8c8469d77a5851bf9ab2c1f
+    [I 11:47:00.830 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 
 It will then open your default web browser to this URL.
 
