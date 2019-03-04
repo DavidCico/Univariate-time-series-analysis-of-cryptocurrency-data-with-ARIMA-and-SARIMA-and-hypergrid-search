@@ -74,4 +74,4 @@ We use [SemVer](http://semver.org/) for versioning.
 
 * **David Cicoria** - *Initial work* - [DavidCico](https://github.com/DavidCico)
 
-See also the list of [contributors](https://github.com/DavidCico/Univariate-time-series-analysis-of-cryptocurrency-data-with-ARIMA-and-SARIMA-and-hypergrid-search/blob/master/CONTRIBUTING.md) who participated in this project.
+See also the list of [contributors](https://github.com/DavidCico/Univariate-time-series-analysis-of-cryptocurrency-data-with-ARIMA-and-SARIMA-and-hypergrid-search/graphs/contributors) who participated in this project.
