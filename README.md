@@ -64,7 +64,7 @@ It will then open your default web browser to this URL.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/DavidCico/Univariate-time-series-analysis-of-cryptocurrency-data-with-ARIMA-and-SARIMA-and-hypergrid-search/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
