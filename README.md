@@ -36,9 +36,9 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### File descriptions
 <ul>
-    <li><p align="justify">"Univariate_analysis_classic_methods.ipynb" in which the univariate time series analysis using ARIMA and SARIMA models is carried out. A rolling forward window approach (walk-forward validation) is used on a weekly period to forecast the price of the currency on the next week.</p></li>
+    <li><p align="justify">"<em>Univariate_analysis_classic_methods.ipynb</em>" in which the univariate time series analysis using ARIMA and SARIMA models is carried out. A rolling forward window approach (walk-forward validation) is used on a weekly period to forecast the price of the currency on the next week.</p></li>
     
-<li><p align="justify">"Grid_search_models_hyperparameters.ipynb" shows a procedure to find the best hyperparameters for the ARIMA and SARIMA models, for the time series analysis approach used in the file above.</p></li>
+<li><p align="justify">"<em>Grid_search_models_hyperparameters.ipynb</em>" shows a procedure to find the best hyperparameters for the ARIMA and SARIMA models, for the time series analysis approach used in the file above.</p></li>
 
 </ul>
 
